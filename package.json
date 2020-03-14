@@ -1,0 +1,23 @@
+{
+  "name": "Weather-App",
+  "version": "1.0.0",
+  "description": "A Basic Weather Application Built Under NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decipher07/Weather-App-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/decipher07/Weather-App-JS/issues"
+  },
+  "homepage": "https://github.com/decipher07/Weather-App-JS#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
